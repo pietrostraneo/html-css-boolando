@@ -76,10 +76,6 @@ footer{
     height: 100px;
 }
 
-.headmargin{
-    margin: 10px 20px;
-}
-
 .col70 img{
     width: 20%;
 }
@@ -95,12 +91,6 @@ footer{
 .center{
     display: flex;
     align-items: center;
-}
-
-.bgred{
-    background-color: red;
-    border: 1px dashed black;
-    height: 400px;
 }
 
 .wrap{
