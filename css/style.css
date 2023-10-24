@@ -119,3 +119,20 @@ main{
     padding: 10px;
     color: white;
 }
+
+.brand{
+    font-size: 15px;
+}
+.clothing{
+    font-weight: bolder;
+}
+
+.price{
+    color: #FF6800;
+    font-weight: bold;
+}
+
+.discount{
+    color: gray;
+    text-decoration: line-through;
+}
