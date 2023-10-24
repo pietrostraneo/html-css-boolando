@@ -7,3 +7,5 @@ Consigli: Analizzate prima il layout solo con i commenti, poi passate ai blocchi
 Aiutatevi con le slides e ricordatevi quanto fatto nel livecoding dello shop.
 Bonus
 All'hover sul cuoricino, questo diventa rosso Buon lavoro!
+
+ESERCIZIO CONSEGNATO (MOMENTANEAMENTE)
